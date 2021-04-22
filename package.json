@@ -1,0 +1,21 @@
+{
+  "name": "time-tracker",
+  "version": "1.0.0",
+  "main": "logger.js",
+  "author": "multipolygon",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "logger": "node logger.js"
+  },
+  "dependencies": {
+    "glob": "^7.1.6",
+    "js-yaml": "^4.0.0",
+    "moment": "^2.29.1",
+    "node-watch": "^0.7.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}

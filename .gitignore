@@ -1,0 +1,5 @@
+node_modules
+log.yaml
+projects.yaml
+
+.DS_Store
